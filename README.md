@@ -1,8 +1,10 @@
 # 17561-Images-of-Primary-School-Mathematics-Papers
-https://www.datatang.ai/datasets/1062
+
 
 ## Description
 17,561 Images of Primary School Mathematics Papers Collection Data. The data background is pure color. The data covers multiple question types, multiple types of test papers (math workbooks, test papers, competition test papers, etc.) and multiple grades. The data can be used for tasks such as intelligent scoring and homework guidance for primary school students.
+
+For more details, please refer to the link: https://bit.ly/3UyRpFb
 
 ## Data size
 17,561 images, 20 types of questions
@@ -24,3 +26,6 @@ mobile phone, the resolution is not less than 2 megapixels (to ensure the texts 
 
 ## Accuracy
 the accuracies of collection and classification of question types are not less than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
