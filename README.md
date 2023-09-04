@@ -4,7 +4,8 @@
 ## Description
 17,561 Images of Primary School Mathematics Papers Collection Data. The data background is pure color. The data covers multiple question types, multiple types of test papers (math workbooks, test papers, competition test papers, etc.) and multiple grades. The data can be used for tasks such as intelligent scoring and homework guidance for primary school students.
 
-For more details, please refer to the link: https://bit.ly/3UyRpFb
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1062?source=Github
+
 
 ## Data size
 17,561 images, 20 types of questions
