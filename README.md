@@ -29,4 +29,4 @@ mobile phone, the resolution is not less than 2 megapixels (to ensure the texts 
 the accuracies of collection and classification of question types are not less than 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
